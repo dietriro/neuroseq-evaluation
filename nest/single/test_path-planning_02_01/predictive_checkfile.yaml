@@ -1,6 +1,6 @@
 config_network.yaml: 4ecd52810bd181219ab3bdbe59d4a0c4
-events.pkl: 70a5c9c11d907bd2c1294409ca3efbcd
+events.pkl: 6a19becd62fb957faa22b9c4fbffd206
 network.npz: f73ae0eed02c35e874c9eaf89b718668
 performance.npz: e8f5b30930811acbc852c04892aad383
-plasticity.npz: 34ecac8d42535861f0f21b37ab6126a2
+plasticity.npz: 722d09a76114a97212513311d2c40cd8
 weights.npz: cf0ebd92c3b71ec40cb369ee4d5fa5b4
